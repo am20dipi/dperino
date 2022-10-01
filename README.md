@@ -1,25 +1,26 @@
-# README
+# DILLONPERINO.COM
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## MISSION
 
-Things you may want to cover:
+Dillonperino.com is a living and changing collection of art that reflects the artist's accomplishments, skills, experiences, and attributes. 
 
-* Ruby version
+## INSTALLATION + USAGE
 
-* System dependencies
+1. Switch into the 'frontend' directory using command `cd frontend` in your terminal.
+2. Install the required node packages using command `npm install` in your terminal.
+3. Start the server using command `npm start` in your terminal.
+4. Navigate to the application in the browser using: `http://localhost:3000` .
 
-* Configuration
+## TECHNOLOGIES
 
-* Database creation
++ JavaScript
++ React
++ HTML
++ CSS
++ Bootstrap
++ Node Package Manager
 
-* Database initialization
+### CONTRIBUTING + LICENSING
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-DPERINO
+MIT License, Copyright (c) 2022 am20dipi
+Contributor: Adriana DiPietro
